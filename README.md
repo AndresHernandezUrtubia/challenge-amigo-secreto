@@ -14,7 +14,6 @@ Esta aplicación permite agregar nombres de amigos a una lista y sortear aleator
 5. Haz clic en **"Sortear amigo"** para obtener un resultado aleatorio.
 6. El nombre del ganador se mostrará en pantalla y la lista se reiniciará automáticamente.
 
-> Puedes visitar este link para ver una demo en vivo del proyecto. *(Agrega aquí tu enlace cuando lo publiques en GitHub Pages)*
 
 ---
 
