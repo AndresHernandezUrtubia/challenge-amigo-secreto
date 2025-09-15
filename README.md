@@ -7,7 +7,7 @@ Esta aplicación permite agregar nombres de amigos a una lista y sortear aleator
 
 ## 🧑‍💻 Cómo usar
 
-1. Abre `index.html` en tu navegador web.
+1. Abre `index.html` en tu navegador web (o ingresa al siguiente link https://andreshernandezurtubia.github.io/challenge-amigo-secreto/).
 2. Escribe el nombre de un amigo en el campo de texto.
 3. Haz clic en **"Añadir"** para agregarlo a la lista.
 4. Repite los pasos 2 y 3 para todos los participantes.
